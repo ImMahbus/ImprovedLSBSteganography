@@ -38,3 +38,7 @@ Image steganography is the art of hiding data into images. Secret data such as m
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
+
+## References
+
+https://arxiv.org/pdf/2012.02494.pdf
